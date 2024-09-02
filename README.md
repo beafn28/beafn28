@@ -48,9 +48,7 @@ Si quieres ponerte en contacto conmigo para discutir proyectos, colaborar en tem
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=beafn28\&theme=shadow\_blue\&hide\_border=false\&include\_all\_commits=false\&count\_private=false)\
-![](https://github-readme-streak-stats.herokuapp.com/?user=beafn28\&theme=shadow\_blue\&hide\_border=false)\\
-
+![](https://github-readme-stats.vercel.app/api?username=beafn28\&theme=shadow\_blue\&hide\_border=false\&include\_all\_commits=false\&count\_private=false)
 ### ✍️ Random Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal\&theme=tokyonight)
