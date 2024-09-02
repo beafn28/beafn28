@@ -30,56 +30,20 @@ Si quieres ponerte en contacto conmigo para discutir proyectos, colaborar en tem
 
 <div>
 
-<figure><img src=".gitbook/assets/introduction-to-cybersecurity.png" alt="" width="150"><figcaption></figcaption></figure>
-
- 
-
-<figure><img src=".gitbook/assets/isc2-candidate.png" alt="" width="150"><figcaption></figcaption></figure>
-
- 
-
-<figure><img src=".gitbook/assets/networking-basics.png" alt="" width="150"><figcaption></figcaption></figure>
-
- 
-
-<figure><img src=".gitbook/assets/networking-devices-and-initial-configuration.png" alt="" width="150"><figcaption></figcaption></figure>
-
- 
-
-<figure><img src=".gitbook/assets/endpoint-security (1).png" alt="" width="150"><figcaption></figcaption></figure>
-
- 
-
-<figure><img src=".gitbook/assets/junior-cybersecurity-analyst-career-path.1.png" alt="" width="150"><figcaption></figcaption></figure>
-
- 
-
-<figure><img src=".gitbook/assets/practical-introduction-to-quantum-safe-cryptography (1).png" alt="" width="150"><figcaption></figcaption></figure>
-
- 
-
-<figure><img src=".gitbook/assets/insignia.png" alt="" width="150"><figcaption></figcaption></figure>
-
- 
-
-<figure><img src=".gitbook/assets/ethical-hacker.png" alt="" width="150"><figcaption></figcaption></figure>
-
- 
-
-<figure><img src=".gitbook/assets/network-defense.png" alt="" width="150"><figcaption></figcaption></figure>
-
- 
-
-<figure><img src=".gitbook/assets/api-penetration-testing.png" alt="" width="150"><figcaption></figcaption></figure>
-
- 
-
-<figure><img src=".gitbook/assets/english-for-it-1.png" alt="" width="150"><figcaption></figcaption></figure>
-
- 
-
-<figure><img src=".gitbook/assets/english-for-it-2.png" alt="" width="150"><figcaption></figcaption></figure>
-
+<figure><img src="/badges/introduction-to-cybersecurity.png" alt="" width="150"><figcaption></figcaption></figure>
+<figure><img src="/badges/isc2-candidate.png" alt="" width="150"><figcaption></figcaption></figure>
+<figure><img src="/badges/badge.png" alt="" width="150"><figcaption></figcaption></figure>
+<figure><img src="/badges/networking-basics.png" alt="" width="150"><figcaption></figcaption></figure>
+<figure><img src="/badges/networking-devices-and-initial-configuration.png" alt="" width="150"><figcaption></figcaption></figure>
+<figure><img src="/badges/endpoint-security.png" alt="" width="150"><figcaption></figcaption></figure>
+<figure><img src="/badges/junior-cybersecurity-analyst-career-path.1.png" alt="" width="150"><figcaption></figcaption></figure>
+<figure><img src="/badges/practical-introduction-to-quantum-safe-cryptography.png" alt="" width="150"><figcaption></figcaption></figure>
+<figure><img src="/badges/insignia.png" alt="" width="150"><figcaption></figcaption></figure>
+<figure><img src="/badges/ethical-hacker.png" alt="" width="150"><figcaption></figcaption></figure>
+<figure><img src="/badges/network-defense.png" alt="" width="150"><figcaption></figcaption></figure>
+<figure><img src="/badges/api-penetration-testing.png" alt="" width="150"><figcaption></figcaption></figure>
+<figure><img src="/badges/english-for-it-1.png" alt="" width="150"><figcaption></figcaption></figure>
+<figure><img src="/badges/english-for-it-2.png" alt="" width="150"><figcaption></figcaption></figure>
 </div>
 
 ## 📊 GitHub Stats
