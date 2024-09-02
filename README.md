@@ -1,4 +1,4 @@
-# 👩‍💻 ¡Bienvenidos a mi GitBook!
+# 👩‍💻 ¡Bienvenidos a mi GitHub!
 
 ### 🖥️ Whoami
 
