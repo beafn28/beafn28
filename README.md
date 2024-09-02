@@ -1,4 +1,5 @@
 # 👩‍💻 ¡Bienvenidos a mi GitHub!
+![Encabezado de GitHub](https://github.com/beafn28/beafn28/raw/main/github-header-image.png)
 
 ### 🖥️ Whoami
 
