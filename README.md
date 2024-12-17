@@ -152,6 +152,8 @@ Si quieres ponerte en contacto conmigo para discutir proyectos, colaborar en tem
 ![](https://github-readme-stats.vercel.app/api?username=beafn28&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=beafn28&theme=shadow_blue&hide_border=false)
 
+## 🏆 GitHub Trophies
+![trophy](https://github-profile-trophy.vercel.app/?username=beafn28&theme=radical)
 
 ### ✍️ Random Dev Quote
 
