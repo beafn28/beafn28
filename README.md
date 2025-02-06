@@ -130,7 +130,7 @@ Si quieres ponerte en contacto conmigo para discutir proyectos, colaborar en tem
 ## 🎖️ My Badges
 
 <div>
-<figure><img src="/badges/badge.png" alt="" width="150"><figcaption></figcaption></figure>
+<figure><img src="/badges/badge.jpg" alt="" width="150"><figcaption></figcaption></figure>
 <figure><img src="/badges/introduction-to-cybersecurity.png" alt="" width="150"><figcaption></figcaption></figure>
 <figure><img src="/badges/isc2-candidate.png" alt="" width="150"><figcaption></figcaption></figure>
 <figure><img src="/badges/badge.png" alt="" width="150"><figcaption></figcaption></figure>
