@@ -122,11 +122,6 @@ Si quieres ponerte en contacto conmigo para discutir proyectos, colaborar en tem
 ![ExploitDB](https://img.shields.io/badge/ExploitDB-000000?style=for-the-badge&logo=python&logoColor=white)
 
 
-### Cloud Security
-![AWS](https://img.shields.io/badge/AWS-%23232F3E.svg?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Azure Security](https://img.shields.io/badge/Azure_Security-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
-
-
 ## 🎖️ My Badges
 
 <div>
