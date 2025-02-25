@@ -23,6 +23,7 @@ Si quieres ponerte en contacto conmigo para discutir proyectos, colaborar en tem
 [![Email](https://img.shields.io/badge/Email-beafn23@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:beafn23@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Beatriz%20Fresno%20Naumova-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/beatriz-fresno-naumova-3797b931b)
 [![GitHub](https://img.shields.io/badge/GitHub-beafn28-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/beafn28)
+[![Hack The Box](https://img.shields.io/badge/Hack_The_Box-beafn28-28a745?style=for-the-badge&logo=hackthebox&logoColor=white)](https://app.hackthebox.com/profile/beafn28)
 
 ## 💻 Tech Stack
 
