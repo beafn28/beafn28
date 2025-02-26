@@ -24,7 +24,7 @@ Si quieres ponerte en contacto conmigo para discutir proyectos, colaborar en tem
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Beatriz%20Fresno%20Naumova-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/beatriz-fresno-naumova-3797b931b)
 [![GitHub](https://img.shields.io/badge/GitHub-beafn28-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/beafn28)
 [![Hack The Box](https://img.shields.io/badge/Hack_The_Box-beafn28-28a745?style=for-the-badge&logo=hackthebox&logoColor=white)](https://app.hackthebox.com/profile/2070042)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-beafn28-ff6f00?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/profile/2319678)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-beafn28-ff6f00?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/beafn28)
 ## 💻 Tech Stack
 
 ### Lenguajes de Programación
