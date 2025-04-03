@@ -25,6 +25,32 @@ Si quieres ponerte en contacto conmigo para discutir proyectos, colaborar en tem
 [![GitHub](https://img.shields.io/badge/GitHub-beafn28-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/beafn28)
 [![Hack The Box](https://img.shields.io/badge/Hack_The_Box-beafn28-28a745?style=for-the-badge&logo=hackthebox&logoColor=white)](https://app.hackthebox.com/profile/2070042)
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-beafn28-ff6f00?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/beafn28)
+
+## 🛡️ Ciberseguridad
+
+### Plataformas y Herramientas
+![Hack The Box](https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)
+![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)
+![Splunk](https://img.shields.io/badge/splunk-%23000000.svg?style=for-the-badge&logo=splunk&logoColor=white)
+![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6F00?style=for-the-badge&logo=burpsuite&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-7E3791?style=for-the-badge&logo=nmap&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-003445?style=for-the-badge&logo=metasploit&logoColor=white)
+![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white)
+![Snort](https://img.shields.io/badge/Snort-FF0F00?style=for-the-badge&logo=snort&logoColor=white)
+![OpenVAS](https://img.shields.io/badge/OpenVAS-555555?style=for-the-badge&logo=openvas&logoColor=white)
+![Nikto](https://img.shields.io/badge/Nikto-009639?style=for-the-badge&logoColor=white)
+![Aircrack-ng](https://img.shields.io/badge/Aircrack--ng-000000?style=for-the-badge&logo=aircrack-ng&logoColor=white)
+![John the Ripper](https://img.shields.io/badge/John%20the%20Ripper-07405E?style=for-the-badge&logo=johntheripper&logoColor=white)
+![Hydra](https://img.shields.io/badge/Hydra-FF0000?style=for-the-badge&logoColor=white)
+![Maltego](https://img.shields.io/badge/Maltego-1C1E21?style=for-the-badge&logo=maltego&logoColor=white)
+![Autopsy](https://img.shields.io/badge/Autopsy-003B71?style=for-the-badge&logo=autopsy&logoColor=white)
+![Fuzzy](https://img.shields.io/badge/Fuzzy-3F51B5?style=for-the-badge&logo=python&logoColor=white)
+![ExploitDB](https://img.shields.io/badge/ExploitDB-000000?style=for-the-badge&logo=python&logoColor=white)
+
 ## 💻 Tech Stack
 
 ### Lenguajes de Programación
@@ -95,33 +121,6 @@ Si quieres ponerte en contacto conmigo para discutir proyectos, colaborar en tem
 ![SPSS](https://img.shields.io/badge/SPSS-%23C9B29D.svg?style=for-the-badge&logo=spss&logoColor=black)
 ![Magento](https://img.shields.io/badge/magento-%23EE5C45.svg?style=for-the-badge&logo=magento&logoColor=white)
 ![Red Hat](https://img.shields.io/badge/red%20hat-%23EE0000.svg?style=for-the-badge&logo=redhat&logoColor=white)
-
-
-## 🛡️ Ciberseguridad
-
-### Plataformas y Herramientas
-![Hack The Box](https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)
-![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)
-![Splunk](https://img.shields.io/badge/splunk-%23000000.svg?style=for-the-badge&logo=splunk&logoColor=white)
-![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6F00?style=for-the-badge&logo=burpsuite&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-7E3791?style=for-the-badge&logo=nmap&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-003445?style=for-the-badge&logo=metasploit&logoColor=white)
-![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white)
-![Snort](https://img.shields.io/badge/Snort-FF0F00?style=for-the-badge&logo=snort&logoColor=white)
-![OpenVAS](https://img.shields.io/badge/OpenVAS-555555?style=for-the-badge&logo=openvas&logoColor=white)
-![Nikto](https://img.shields.io/badge/Nikto-009639?style=for-the-badge&logoColor=white)
-![Aircrack-ng](https://img.shields.io/badge/Aircrack--ng-000000?style=for-the-badge&logo=aircrack-ng&logoColor=white)
-![John the Ripper](https://img.shields.io/badge/John%20the%20Ripper-07405E?style=for-the-badge&logo=johntheripper&logoColor=white)
-![Hydra](https://img.shields.io/badge/Hydra-FF0000?style=for-the-badge&logoColor=white)
-![Maltego](https://img.shields.io/badge/Maltego-1C1E21?style=for-the-badge&logo=maltego&logoColor=white)
-![Autopsy](https://img.shields.io/badge/Autopsy-003B71?style=for-the-badge&logo=autopsy&logoColor=white)
-![Fuzzy](https://img.shields.io/badge/Fuzzy-3F51B5?style=for-the-badge&logo=python&logoColor=white)
-![ExploitDB](https://img.shields.io/badge/ExploitDB-000000?style=for-the-badge&logo=python&logoColor=white)
-
 
 ## 🎖️ My Badges
 
