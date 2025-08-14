@@ -26,6 +26,10 @@ Si quieres ponerte en contacto conmigo para discutir proyectos, colaborar en tem
 [![Hack The Box](https://img.shields.io/badge/Hack_The_Box-beafn28-28a745?style=for-the-badge&logo=hackthebox&logoColor=white)](https://app.hackthebox.com/profile/2070042)
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-beafn28-ff6f00?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/beafn28)
 
+## 🚨 Public Vulnerability Research
+
+- **CVE-2025-52392** – Brute-Force Login Vulnerability in Soosyze CMS 2.0, publicado oficialmente por el [CVE Program (MITRE)](https://www.cve.org/CVERecord?id=CVE-2025-52392), referenciado por [NIST en la NVD](https://nvd.nist.gov/vuln/detail/CVE-2025-52392) – 📄 [Detalles técnicos y PoC](https://beafn28.gitbook.io/beafn28/cve/brute-force-login-vulnerability-in-soosyze-cms-2.0-cve-2025-52392)
+
 ## 🛡️ Ciberseguridad
 
 ### Plataformas y Herramientas
