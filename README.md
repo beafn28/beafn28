@@ -132,6 +132,7 @@ Si quieres ponerte en contacto conmigo para discutir proyectos, colaborar en tem
  <figure><img src="/badges/ewptx.png" alt="" width="150"><figcaption></figcaption></figure> 
   <figure><img src="/badges/ecppt.png" alt="" width="150"><figcaption></figcaption></figure>
 <figure><img src="/badges/badge.jpg" alt="" width="150"><figcaption></figcaption></figure>
+ <figure><img src="/badges/icca.png" alt="" width="100"><figcaption></figcaption></figure>
 <figure><img src="/badges/introduction-to-cybersecurity.png" alt="" width="150"><figcaption></figcaption></figure>
 <figure><img src="/badges/isc2-candidate.png" alt="" width="150"><figcaption></figcaption></figure>
 <figure><img src="/badges/badge.png" alt="" width="150"><figcaption></figcaption></figure>
