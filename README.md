@@ -6,11 +6,7 @@
 #### 🎓 Sobre mí
 
 Soy **Beatriz Fresno Naumova**, actualmente trabajando como **Junior Penetration Tester** en **Advens** mientras compagino mi último curso de **Ingeniería Informática** en la **Universidad de Salamanca**.  
-
-En mi día a día me involucro activamente en la **identificación de vulnerabilidades** en aplicaciones web, software e infraestructuras de instituciones públicas y privadas, colaborando de forma responsable en la **mejora de la ciberseguridad**. También participo en la **detección de CVE** y la creación de **PoC**, que puedes consultar en mi blog en el apartado *Proyectos → CVE*.  
-
-Además, participo en **competiciones CTF (Capture The Flag)** como parte de mi desarrollo técnico y práctico en seguridad ofensiva.  
-
+En mi día a día me involucro activamente en la **identificación de vulnerabilidades** en aplicaciones web, software e infraestructuras de instituciones públicas y privadas, colaborando de forma responsable en la **mejora de la ciberseguridad**. También participo en la **detección de CVE** y la creación de **PoC**, que puedes consultar en mi blog en el apartado *Proyectos → CVE*. Además, participo en **competiciones CTF (Capture The Flag)** como parte de mi desarrollo técnico y práctico en seguridad ofensiva.  
 Exploro igualmente el impacto de la **computación cuántica** en la seguridad y comparto mis **proyectos personales**, **writeups**, **herramientas** y otros contenidos técnicos en mi blog como parte de un aprendizaje continuo apoyado en certificaciones.
 
 #### 🌐 ¿Qué encontrarás aquí?
