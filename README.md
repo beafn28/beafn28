@@ -5,9 +5,13 @@
 
 #### 🎓 Sobre mí
 
-Soy **Beatriz Fresno Naumova**, estudiante del último curso de Ingeniería Informática en la Universidad de Salamanca (USAL). A lo largo de mi trayectoria académica y personal, he desarrollado una profunda pasión por la ciberseguridad, un campo que me ha cautivado desde mis primeros años de estudio. Actualmente, me especializo en **pentesting**, donde aplico mis conocimientos para identificar y mitigar vulnerabilidades en sistemas y aplicaciones.
+Soy **Beatriz Fresno Naumova**, actualmente trabajando como **Junior Penetration Tester** en **Advens** mientras compagino mi último curso de **Ingeniería Informática** en la **Universidad de Salamanca**.  
 
-Mi aprendizaje ha sido tanto académico como autodidacta, y siempre estoy en busca de nuevos retos que me permitan seguir creciendo en este apasionante mundo de la seguridad informática.
+En mi día a día me involucro activamente en la **identificación de vulnerabilidades** en aplicaciones web, software e infraestructuras de instituciones públicas y privadas, colaborando de forma responsable en la **mejora de la ciberseguridad**. También participo en la **detección de CVE** y la creación de **PoC**, que puedes consultar en mi blog en el apartado *Proyectos → CVE*.  
+
+Además, participo en **competiciones CTF (Capture The Flag)** como parte de mi desarrollo técnico y práctico en seguridad ofensiva.  
+
+Exploro igualmente el impacto de la **computación cuántica** en la seguridad y comparto mis **proyectos personales**, **writeups**, **herramientas** y otros contenidos técnicos en mi blog como parte de un aprendizaje continuo apoyado en certificaciones.
 
 #### 🌐 ¿Qué encontrarás aquí?
 
@@ -154,9 +158,6 @@ Si quieres ponerte en contacto conmigo para discutir proyectos, colaborar en tem
 ![](https://github-readme-stats.vercel.app/api?username=beafn28&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false)  
 ![](https://github-readme-streak-stats.herokuapp.com/?user=beafn28&theme=shadow_blue&hide_border=false)  
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=beafn28&layout=compact&theme=shadow_blue&hide_border=false)
-
-## 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=beafn28&theme=shadow&margin-w=10&no-frame=false)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### ✍️ Random Dev Quote
 
