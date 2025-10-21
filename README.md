@@ -31,6 +31,7 @@ Si quieres ponerte en contacto conmigo para discutir proyectos, colaborar en tem
 ## 🚨 Public Vulnerability Research
 
 - **CVE-2025-52392** – Brute-Force Login Vulnerability in Soosyze CMS 2.0, publicado oficialmente por el [CVE Program (MITRE)](https://www.cve.org/CVERecord?id=CVE-2025-52392), referenciado por [NIST en la NVD](https://nvd.nist.gov/vuln/detail/CVE-2025-52392) – 📄 [Detalles técnicos y PoC](https://beafn28.gitbook.io/beafn28/cve/brute-force-login-vulnerability-in-soosyze-cms-2.0-cve-2025-52392)
+- **CVE-2025-60427** – Broken Access Control en LibreTime 3.0.0-alpha.10 (y posiblemente versiones anteriores), que permite a usuarios autenticados con rol DJ acceder a métricas globales sin privilegios adecuados. Publicado oficialmente por el [CVE Program (MITRE)](https://www.cve.org/CVERecord?id=CVE-2025-60427), referenciado por [NIST en la NVD](https://nvd.nist.gov/vuln/detail/CVE-2025-60427) – 📄 [Detalles técnicos y PoC](https://beafn28.gitbook.io/beafn28/cve/broken-access-control-in-libretime-analytics-endpoints-cve-2025-60427)
 
 ## 🛡️ Ciberseguridad
 
