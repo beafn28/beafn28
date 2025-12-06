@@ -9,6 +9,8 @@ Soy **Beatriz Fresno Naumova**, actualmente trabajando como **Junior Penetration
 
 En mi día a día me involucro activamente en la **identificación de vulnerabilidades** en aplicaciones web, software e infraestructuras de instituciones públicas y privadas, colaborando de forma responsable en la **mejora de la ciberseguridad**. También participo en la **detección de CVE** y la creación de **PoC**, que puedes consultar en mi blog en el apartado *Proyectos → CVE*. Además, participo en **competiciones CTF (Capture The Flag)** como parte de mi desarrollo técnico y práctico en seguridad ofensiva.  
 
+Además, soy **Host de [Hack The Box: Salamanca](https://www.meetup.com/es-es/hack-the-box-meetup-salamanca-es/)**, un espacio pensado para reunir a *entusiastas del hacking ético hispanohablantes*, donde organizamos **sesiones prácticas y teóricas**, charlas y resolvemos **retos técnicos** de Hack The Box.
+
 Exploro igualmente el impacto de la **computación cuántica** en la seguridad y comparto mis **proyectos personales**, **writeups**, **herramientas** y otros contenidos técnicos en mi blog como parte de un aprendizaje continuo apoyado en certificaciones.
 
 #### 🌐 ¿Qué encontrarás aquí?
