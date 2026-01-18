@@ -1,28 +1,75 @@
 # 👩‍💻 ¡Bienvenidos a mi GitHub!
 ![Encabezado de GitHub](https://github.com/beafn28/beafn28/raw/main/github-header-banner.png)
 
-### 🖥️ Whoami
+## 🖥️ Whoami
 
-#### 🎓 Sobre mí
+- **Beatriz Fresno Naumova**
+- **Junior Penetration Tester** at **Advens**
+- Final-year **Computer Engineering** student at the **University of Salamanca**
 
-Soy **Beatriz Fresno Naumova**, actualmente trabajando como **Junior Penetration Tester** en **Advens** mientras compagino mi último curso de **Ingeniería Informática** en la **Universidad de Salamanca**.
+## 🎯 Focus
+- Identification and exploitation of **vulnerabilities** in:
+  - Web applications
+  - Software
+  - Infrastructure across **public institutions and private organizations**
 
-En mi día a día me involucro activamente en la **identificación de vulnerabilidades** en aplicaciones web, software e infraestructuras de instituciones públicas y privadas, colaborando de forma responsable en la **mejora de la ciberseguridad**. También participo en la **detección de CVE** y la creación de **PoC**, que puedes consultar en mi blog en el apartado *Proyectos → CVE*. Además, participo en **competiciones CTF (Capture The Flag)** como parte de mi desarrollo técnico y práctico en seguridad ofensiva.  
+- **Vulnerability Research**:
+  - CVE discovery and publication
+  - Proof of Concept (PoC) development
+- Active participation in **CTF (Capture The Flag)** competitions as continuous offensive security training
 
-Además, soy **Host de [Hack The Box: Salamanca](https://www.meetup.com/es-es/hack-the-box-meetup-salamanca-es/)**, un espacio pensado para reunir a *entusiastas del hacking ético hispanohablantes*, donde organizamos **sesiones prácticas y teóricas**, charlas y resolvemos **retos técnicos** de Hack The Box.
+## 🧪 Community & Learning
 
-Exploro igualmente el impacto de la **computación cuántica** en la seguridad y comparto mis **proyectos personales**, **writeups**, **herramientas** y otros contenidos técnicos en mi blog como parte de un aprendizaje continuo apoyado en certificaciones.
+- **Host of [Hack The Box Salamanca](https://www.meetup.com/es-es/hack-the-box-meetup-salamanca-es/)**, a Spanish-speaking ethical hacking community:
+  - Practical and theoretical sessions
+  - Technical talks
+  - Collaborative challenge solving
+- I enjoy working as a **security researcher**, discovering vulnerabilities in:
+  - Web applications
+  - Software
+  - Infrastructure of both public and private institutions and reporting them **responsibly**
+- Creator of custom vulnerable machines for training platforms:
+  - **The Hacker Labs**: *Facultad*, *CryptoLabyrinth*
+  - **DockerLabs**: *Elevator*, *Pequeñas Mentirosas*
+- Member of the **INCIBE Cybercooperators Program**
+- Interested in the impact of **quantum computing** on cybersecurity
+- I share **writeups, projects, scripts, and tools** on my blog as part of continuous learning
 
-#### 🌐 ¿Qué encontrarás aquí?
 
-En este espacio, subo **writeups** de distintas plataformas de ciberseguridad. Mi objetivo es compartir mis conocimientos y experiencias, colaborar con otros profesionales y entusiastas del área, y contribuir a la comunidad de la ciberseguridad. Cada writeup que comparto refleja no solo la solución de un reto, sino también las estrategias, metodologías y herramientas que utilizo en mi día a día como estudiante y futura profesional de la seguridad.
-Además, también subo **scripts** creados por mí para facilitar la resolución de **CTFs** (Capture The Flag). Estos scripts están diseñados para automatizar tareas y optimizar el proceso de resolución de retos, y espero que sean útiles para otros que se enfrenten a desafíos similares.
 
-Además de la ciberseguridad, otra de mis grandes pasiones es la **computación cuántica**. Creo firmemente que esta área tiene el potencial de revolucionar la seguridad de la información en el futuro, y es por eso que también encontrarás en este espacio códigos y proyectos relacionados con la computación cuántica. Mi intención es explorar cómo esta tecnología emergente puede integrarse y fortalecer los sistemas de seguridad actuales.
+## 🧠 What you'll find here
 
-### 📬 Contacto
+- Technical writeups from various cybersecurity platforms published on my GitHub
+- Scripts designed to automate and optimize CTF challenge solving
+- Personal projects and experimentation in offensive security and quantum computing
+## 🚨 Public Vulnerability Research
 
-Si quieres ponerte en contacto conmigo para discutir proyectos, colaborar en temas de ciberseguridad o computación cuántica, o simplemente intercambiar ideas, puedes hacerlo a través de los siguientes canales:
+### CVEs
+
+- **[CVE-2025-52392](https://nvd.nist.gov/vuln/detail/CVE-2025-52392)** — Brute-force login vulnerability (Soosyze CMS)
+- **[CVE-2025-60427](https://nvd.nist.gov/vuln/detail/CVE-2025-60427)** — Broken access control (LibreTime)
+- **[CVE-2025-12630](https://www.cve.org/CVERecord?id=CVE-2025-12630)** — Arbitrary option disclosure (WordPress plugin)
+- **[CVE-2025-11699](https://kb.cert.org/vuls/id/633103)** — Insufficient session cookie invalidation (nopCommerce)
+- **[CVE-2025-64746](https://www.cve.org/CVERecord?id=CVE-2025-64746)** — Improper permission handling (Directus)
+- **[CVE-2025-71164](https://www.cve.org/CVERecord?id=CVE-2025-71164)** — Reflected XSS in editor component (Typesetter CMS ≤ 5.1)
+- **[CVE-2025-71165](https://www.cve.org/CVERecord?id=CVE-2025-71165)** — Reflected XSS in admin interface (Tools / Status) (Typesetter CMS ≤ 5.1)
+- **[CVE-2025-71166](https://www.cve.org/CVERecord?id=CVE-2025-71166)** — Reflected XSS in admin status messages (Typesetter CMS ≤ 5.1)
+
+### Public PoCs & Exploits
+
+- **CVE-2025-9140** — SQL Injection PoC (Lingdang CRM 8.6.4.7)  
+  https://www.exploit-db.com/exploits/52420
+
+- **CVE-2025-52392** — Brute-force authentication PoC (Soosyze CMS 2.0)  
+  https://www.exploit-db.com/exploits/52416
+
+- **CVE-2025-10327** — Remote Command Execution (RPi-Jukebox-RFID 2.8.0)  
+  https://www.exploit-db.com/exploits/52468
+
+📄 Detailed technical analysis, advisories and additional PoCs are available on my **[blog](https://www.beafn28.es/#/research)**.
+
+
+### 📬 Contact
 
 [![Email](https://img.shields.io/badge/Email-beafn23@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:beafn23@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Beatriz%20Fresno%20Naumova-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/beatriz-fresno-naumova-3797b931b)
@@ -30,140 +77,11 @@ Si quieres ponerte en contacto conmigo para discutir proyectos, colaborar en tem
 [![Hack The Box](https://img.shields.io/badge/Hack_The_Box-beafn28-28a745?style=for-the-badge&logo=hackthebox&logoColor=white)](https://app.hackthebox.com/profile/2070042)
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-beafn28-ff6f00?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/beafn28)
 
-## 🚨 Public Vulnerability Research
-
-- **CVE-2025-52392** – Brute-Force Login Vulnerability in Soosyze CMS 2.0, publicado oficialmente por el [CVE Program (MITRE)](https://www.cve.org/CVERecord?id=CVE-2025-52392), referenciado por [NIST en la NVD](https://nvd.nist.gov/vuln/detail/CVE-2025-52392) – 📄 [Detalles técnicos y PoC](https://beafn28.gitbook.io/beafn28/cve/brute-force-login-vulnerability-in-soosyze-cms-2.0-cve-2025-52392)
-- **CVE-2025-60427** – Broken Access Control en LibreTime 3.0.0-alpha.10 (y posiblemente versiones anteriores), que permite a usuarios autenticados con rol DJ acceder a métricas globales sin privilegios adecuados. Publicado oficialmente por el [CVE Program (MITRE)](https://www.cve.org/CVERecord?id=CVE-2025-60427), referenciado por [NIST en la NVD](https://nvd.nist.gov/vuln/detail/CVE-2025-60427) – 📄 [Detalles técnicos y PoC](https://beafn28.gitbook.io/beafn28/cve/broken-access-control-in-libretime-analytics-endpoints-cve-2025-60427)
-- **CVE-2025-12630** – Arbitrary Option Disclosure en Upload.am File Hosting VPN < 1.0.1. Permite a usuarios autenticados con rol contributor+ (u otros roles con acceso a la pantalla *Nuevo artículo*) leer opciones del sitio debido a una falta de verificación de capacidades en su manejador AJAX (admin-ajax.php / action=upload_am_get_option). Publicado por el [CVE Program (MITRE)](https://www.cve.org/CVERecord?id=CVE-2025-12630), referenciado en índices públicos — 📄 [Detalles técnicos y PoC / informe original (WPScan)](https://wpscan.com/vulnerability/531537f1-5547-4b0f-9e11-3f8a0b2589f5)
-- **CVE-2025-11699** – Insufficient Session Cookie Invalidation en nopCommerce (ASP.NET Core eCommerce Platform). La plataforma no invalida correctamente las cookies de sesión tras el cierre de sesión, permitiendo la reutilización de sesiones capturadas y acceso a endpoints privilegiados. Publicado oficialmente por el [CVE Program (MITRE)](https://www.cve.org/CVERecord?id=CVE-2025-11699) y documentado por CERT/CC en el Vulnerability Note VU#633103 – 📄 [Detalles técnicos y análisis CERT/CC](https://www.kb.cert.org/vuls/id/633103)
-- **CVE-2025-64746** – Improper Permission Handling on Deleted Fields en Directus < 11.13.0. La eliminación de campos no limpia las referencias de permisos asociadas, permitiendo que futuros campos con el mismo nombre hereden permisos obsoletos, lo que puede dar acceso no autorizado a datos. Publicado por el [CVE Program (MITRE)](https://www.cve.org/CVERecord?id=CVE-2025-64746) – 📄 [Advisory oficial de GitHub (GHSA-9x5g-62gj-wqf2)](https://github.com/directus/directus/security/advisories/GHSA-9x5g-62gj-wqf2)
-
-## 🛡️ Ciberseguridad
-
-### Plataformas y Herramientas
-![Hack The Box](https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)
-![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)
-![Splunk](https://img.shields.io/badge/splunk-%23000000.svg?style=for-the-badge&logo=splunk&logoColor=white)
-![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6F00?style=for-the-badge&logo=burpsuite&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-7E3791?style=for-the-badge&logo=nmap&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-003445?style=for-the-badge&logo=metasploit&logoColor=white)
-![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white)
-![Snort](https://img.shields.io/badge/Snort-FF0F00?style=for-the-badge&logo=snort&logoColor=white)
-![OpenVAS](https://img.shields.io/badge/OpenVAS-555555?style=for-the-badge&logo=openvas&logoColor=white)
-![Nikto](https://img.shields.io/badge/Nikto-009639?style=for-the-badge&logoColor=white)
-![Aircrack-ng](https://img.shields.io/badge/Aircrack--ng-000000?style=for-the-badge&logo=aircrack-ng&logoColor=white)
-![John the Ripper](https://img.shields.io/badge/John%20the%20Ripper-07405E?style=for-the-badge&logo=johntheripper&logoColor=white)
-![Hydra](https://img.shields.io/badge/Hydra-FF0000?style=for-the-badge&logoColor=white)
-![Maltego](https://img.shields.io/badge/Maltego-1C1E21?style=for-the-badge&logo=maltego&logoColor=white)
-![Autopsy](https://img.shields.io/badge/Autopsy-003B71?style=for-the-badge&logo=autopsy&logoColor=white)
-![Fuzzy](https://img.shields.io/badge/Fuzzy-3F51B5?style=for-the-badge&logo=python&logoColor=white)
-![ExploitDB](https://img.shields.io/badge/ExploitDB-000000?style=for-the-badge&logo=python&logoColor=white)
-
-## 💻 Tech Stack
-
-### Lenguajes de Programación
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![Perl](https://img.shields.io/badge/perl-%2339457E.svg?style=for-the-badge&logo=perl&logoColor=white)
-![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
-![Swift](https://img.shields.io/badge/swift-%23F05138.svg?style=for-the-badge&logo=swift&logoColor=white)
-
-### Frontend
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white)
-![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
-
-### Backend
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![RabbitMQ](https://img.shields.io/badge/rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
-![Apache Kafka](https://img.shields.io/badge/apache%20kafka-%23E31A1C.svg?style=for-the-badge&logo=apachekafka&logoColor=white)
-
-### Bases de Datos
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-
-### DevOps & Infraestructura
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Kafka](https://img.shields.io/badge/apache%20kafka-%23E31A1C.svg?style=for-the-badge&logo=apachekafka&logoColor=white)
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
-![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
-![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
-![Linux](https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
-
-### Ciencia de Datos y Machine Learning
-![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-![Jupyter](https://img.shields.io/badge/jupyter-%23F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-%23E67C73.svg?style=for-the-badge&logo=MATLAB&logoColor=white)
-
-### Herramientas y Diseño
-![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-![SPSS](https://img.shields.io/badge/SPSS-%23C9B29D.svg?style=for-the-badge&logo=spss&logoColor=black)
-![Magento](https://img.shields.io/badge/magento-%23EE5C45.svg?style=for-the-badge&logo=magento&logoColor=white)
-![Red Hat](https://img.shields.io/badge/red%20hat-%23EE0000.svg?style=for-the-badge&logo=redhat&logoColor=white)
-
-## 🎖️ My Badges
-
-<div>
- <figure><img src="/badges/ewptx.png" alt="" width="150"><figcaption></figcaption></figure> 
- <figure><img src="/badges/ecppt.png" alt="" width="150"><figcaption></figcaption></figure>
- <figure><img src="/badges/emapt.png" alt="" width="150"><figcaption></figcaption></figure>
-<figure><img src="/badges/badge.jpg" alt="" width="150"><figcaption></figcaption></figure>
- <figure><img src="/badges/ICCA.png" alt="" width="150"><figcaption></figcaption></figure>
-<figure><img src="/badges/introduction-to-cybersecurity.png" alt="" width="150"><figcaption></figcaption></figure>
-<figure><img src="/badges/isc2-candidate.png" alt="" width="150"><figcaption></figcaption></figure>
-<figure><img src="/badges/badge.png" alt="" width="150"><figcaption></figcaption></figure>
-<figure><img src="/badges/networking-basics.png" alt="" width="150"><figcaption></figcaption></figure>
-<figure><img src="/badges/networking-devices-and-initial-configuration.png" alt="" width="150"><figcaption></figcaption></figure>
-<figure><img src="/badges/endpoint-security.png" alt="" width="150"><figcaption></figcaption></figure>
-<figure><img src="/badges/junior-cybersecurity-analyst-career-path.1.png" alt="" width="150"><figcaption></figcaption></figure>
-<figure><img src="/badges/practical-introduction-to-quantum-safe-cryptography.png" alt="" width="150"><figcaption></figcaption></figure>
-<figure><img src="/badges/insignia.png" alt="" width="150"><figcaption></figcaption></figure>
-<figure><img src="/badges/ethical-hacker.png" alt="" width="150"><figcaption></figcaption></figure>
-<figure><img src="/badges/network-defense.png" alt="" width="150"><figcaption></figcaption></figure>
-<figure><img src="/badges/api-penetration-testing.png" alt="" width="150"><figcaption></figcaption></figure>
-<figure><img src="/badges/english-for-it-1.png" alt="" width="150"><figcaption></figcaption></figure>
-<figure><img src="/badges/english-for-it-2.png" alt="" width="150"><figcaption></figcaption></figure>
-</div>
-
 ## 📊 GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=beafn28&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false)  
 ![](https://github-readme-streak-stats.herokuapp.com/?user=beafn28&theme=shadow_blue&hide_border=false)  
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=beafn28&layout=compact&theme=shadow_blue&hide_border=false)
 
-### ✍️ Random Dev Quote
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal\&theme=tokyonight)
+
