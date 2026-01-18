@@ -17,6 +17,7 @@
   - CVE discovery and publication
   - Proof of Concept (PoC) development
 - Active participation in **CTF (Capture The Flag)** competitions as continuous offensive security training
+- I am in a continuous learning process, expanding my technical skills through hands-on practice and progressively advanced cybersecurity certifications.
 
 ## 🧪 Community & Learning
 
