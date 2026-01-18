@@ -46,14 +46,14 @@
 
 ### CVEs
 
-- **[CVE-2025-52392](https://nvd.nist.gov/vuln/detail/CVE-2025-52392)** — Brute-force login vulnerability (Soosyze CMS)
-- **[CVE-2025-60427](https://nvd.nist.gov/vuln/detail/CVE-2025-60427)** — Broken access control (LibreTime)
-- **[CVE-2025-12630](https://www.cve.org/CVERecord?id=CVE-2025-12630)** — Arbitrary option disclosure (WordPress plugin)
-- **[CVE-2025-11699](https://kb.cert.org/vuls/id/633103)** — Insufficient session cookie invalidation (nopCommerce)
-- **[CVE-2025-64746](https://www.cve.org/CVERecord?id=CVE-2025-64746)** — Improper permission handling (Directus)
-- **[CVE-2025-71164](https://www.cve.org/CVERecord?id=CVE-2025-71164)** — Reflected XSS in editor component (Typesetter CMS ≤ 5.1)
-- **[CVE-2025-71165](https://www.cve.org/CVERecord?id=CVE-2025-71165)** — Reflected XSS in admin interface (Tools / Status) (Typesetter CMS ≤ 5.1)
-- **[CVE-2025-71166](https://www.cve.org/CVERecord?id=CVE-2025-71166)** — Reflected XSS in admin status messages (Typesetter CMS ≤ 5.1)
+- **[CVE-2025-52392](https://nvd.nist.gov/vuln/detail/CVE-2025-52392)** - Brute-force login vulnerability (Soosyze CMS)
+- **[CVE-2025-60427](https://nvd.nist.gov/vuln/detail/CVE-2025-60427)** - Broken access control (LibreTime)
+- **[CVE-2025-12630](https://www.cve.org/CVERecord?id=CVE-2025-12630)** - Arbitrary option disclosure (WordPress plugin)
+- **[CVE-2025-11699](https://kb.cert.org/vuls/id/633103)** - Insufficient session cookie invalidation (nopCommerce)
+- **[CVE-2025-64746](https://www.cve.org/CVERecord?id=CVE-2025-64746)** - Improper permission handling (Directus)
+- **[CVE-2025-71164](https://www.cve.org/CVERecord?id=CVE-2025-71164)** - Reflected XSS in editor component (Typesetter CMS ≤ 5.1)
+- **[CVE-2025-71165](https://www.cve.org/CVERecord?id=CVE-2025-71165)** - Reflected XSS in admin interface (Tools / Status) (Typesetter CMS ≤ 5.1)
+- **[CVE-2025-71166](https://www.cve.org/CVERecord?id=CVE-2025-71166)** - Reflected XSS in admin status messages (Typesetter CMS ≤ 5.1)
 
 ### Public PoCs & Exploits
 
