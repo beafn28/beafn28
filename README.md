@@ -4,7 +4,7 @@
 ## 🖥️ Whoami
 
 - **Beatriz Fresno Naumova**
-- **Junior Penetration Tester** at **Advens**
+- **Junior Pentester** at **Advens**
 - Final-year **Computer Engineering** student at the **University of Salamanca**
 
 ## 🎯 Focus
