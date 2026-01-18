@@ -1,4 +1,4 @@
-# 👩‍💻 ¡Bienvenidos a mi GitHub!
+# 👩‍💻 Welcome to my GitHub!
 ![Encabezado de GitHub](https://github.com/beafn28/beafn28/raw/main/github-header-banner.png)
 
 ## 🖥️ Whoami
@@ -35,13 +35,12 @@
 - Interested in the impact of **quantum computing** on cybersecurity
 - I share **writeups, projects, scripts, and tools** on my blog as part of continuous learning
 
-
-
 ## 🧠 What you'll find here
 
 - Technical writeups from various cybersecurity platforms published on my GitHub
 - Scripts designed to automate and optimize CTF challenge solving
 - Personal projects and experimentation in offensive security and quantum computing
+
 ## 🚨 Public Vulnerability Research
 
 ### CVEs
@@ -69,7 +68,7 @@
 📄 Detailed technical analysis, advisories and additional PoCs are available on my **[blog](https://www.beafn28.es/#/research)**.
 
 
-### 📬 Contact
+## 📬 Contact
 
 [![Email](https://img.shields.io/badge/Email-beafn23@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:beafn23@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Beatriz%20Fresno%20Naumova-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/beatriz-fresno-naumova-3797b931b)
