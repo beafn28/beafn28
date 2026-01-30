@@ -54,6 +54,8 @@
 - **[CVE-2025-71164](https://www.cve.org/CVERecord?id=CVE-2025-71164)** - Reflected XSS in editor component (Typesetter CMS ≤ 5.1)
 - **[CVE-2025-71165](https://www.cve.org/CVERecord?id=CVE-2025-71165)** - Reflected XSS in admin interface (Tools / Status) (Typesetter CMS ≤ 5.1)
 - **[CVE-2025-71166](https://www.cve.org/CVERecord?id=CVE-2025-71166)** - Reflected XSS in admin status messages (Typesetter CMS ≤ 5.1)
+- **[CVE-2025-15549](https://www.cve.org/CVERecord?id=CVE-2025-15549)** – Stored XSS via SVG upload in File Management (FluentCMS ≤ 0.0.5)
+- **[CVE-2025-15550](https://www.cve.org/CVERecord?id=CVE-2025-15550)** – Cross-Site Request Forgery in GraphQL endpoint (birkir prime ≤ 0.4.0.beta.0)
 
 ### Public PoCs & Exploits
 
