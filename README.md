@@ -56,6 +56,7 @@
 - **[CVE-2025-71166](https://www.cve.org/CVERecord?id=CVE-2025-71166)** - Reflected XSS in admin status messages (Typesetter CMS ≤ 5.1)
 - **[CVE-2025-15549](https://www.cve.org/CVERecord?id=CVE-2025-15549)** – Stored XSS via SVG upload in File Management (FluentCMS ≤ 0.0.5)
 - **[CVE-2025-15550](https://www.cve.org/CVERecord?id=CVE-2025-15550)** – Cross-Site Request Forgery in GraphQL endpoint (birkir prime ≤ 0.4.0.beta.0)
+- **[CVE-2025-71177](https://www.cve.org/CVERecord?id=CVE-2025-71177)** – Stored XSS via package creation and search functionality (LavaLite CMS ≤ 10.1.0)
 
 ### Public PoCs & Exploits
 
@@ -67,6 +68,13 @@
 
 - **CVE-2025-10327** — Remote Command Execution (RPi-Jukebox-RFID 2.8.0)  
   https://www.exploit-db.com/exploits/52468
+
+- **CVE-2025-10666** — Stack-based Buffer Overflow (DoS) PoC (D-Link DIR-825 Rev.B ≤ 2.10)  
+  https://www.exploit-db.com/exploits/52469
+  
+- **CVE-2025-10370** — Stored Cross-Site Scripting (XSS) PoC (RPi-Jukebox-RFID 2.8.0)  
+  https://www.exploit-db.com/exploits/52470
+
 
 📄 Detailed technical analysis, advisories and additional PoCs are available on my **[blog](https://www.beafn28.es/#/research)**.
 
