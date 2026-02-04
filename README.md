@@ -60,20 +60,32 @@
 
 ### Public PoCs & Exploits
 
-- **CVE-2025-9140** — SQL Injection PoC (Lingdang CRM 8.6.4.7)  
+- **CVE-2025-9140** - SQL Injection PoC (Lingdang CRM 8.6.4.7)  
   https://www.exploit-db.com/exploits/52420
 
-- **CVE-2025-52392** — Brute-force authentication PoC (Soosyze CMS 2.0)  
+- **CVE-2025-52392** - Brute-force authentication PoC (Soosyze CMS 2.0)  
   https://www.exploit-db.com/exploits/52416
 
-- **CVE-2025-10327** — Remote Command Execution (RPi-Jukebox-RFID 2.8.0)  
+- **CVE-2025-10327** - Remote Command Execution (RPi-Jukebox-RFID 2.8.0)  
   https://www.exploit-db.com/exploits/52468
 
-- **CVE-2025-10666** — Stack-based Buffer Overflow (DoS) PoC (D-Link DIR-825 Rev.B ≤ 2.10)  
+- **CVE-2025-10666** - Stack-based Buffer Overflow (DoS) PoC (D-Link DIR-825 Rev.B ≤ 2.10)  
   https://www.exploit-db.com/exploits/52469
   
-- **CVE-2025-10370** — Stored Cross-Site Scripting (XSS) PoC (RPi-Jukebox-RFID 2.8.0)  
+- **CVE-2025-10370** - Stored Cross-Site Scripting (XSS) PoC (RPi-Jukebox-RFID 2.8.0)  
   https://www.exploit-db.com/exploits/52470
+  
+- **CVE-2024-23334** - Directory Traversal PoC (aiohttp ≤ 3.9.1)  
+  https://www.exploit-db.com/exploits/52474
+
+- **CVE-2025-24514 / CVE-2025-1974 / CVE-2025-1097 / CVE-2025-1098** - FD Injection to RCE (Ingress-NGINX Admission Controller v1.11.1)  
+  https://www.exploit-db.com/exploits/52475
+
+- **CVE-2025-32023** - Remote Code Execution via HyperLogLog overflow (Redis ≥ 8.0.0, < 8.0.3)  
+  https://www.exploit-db.com/exploits/52477
+
+- **CVE-2025-24054** — NTLM Hash Disclosure Spoofing (Windows 10 / 11)  
+  https://www.exploit-db.com/exploits/52478
 
 
 📄 Detailed technical analysis, advisories and additional PoCs are available on my **[blog](https://www.beafn28.es/#/research)**.
