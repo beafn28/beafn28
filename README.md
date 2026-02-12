@@ -83,9 +83,13 @@
 
 - **CVE-2025-32023** - Remote Code Execution via HyperLogLog overflow (Redis ≥ 8.0.0, < 8.0.3)  
   https://www.exploit-db.com/exploits/52477
+  
+- **CVE-2023-4911** - Local Privilege Escalation (glibc “Looney Tunables” ≤ 2.38)  
+  https://www.exploit-db.com/exploits/52479
 
-- **CVE-2025-24054** — NTLM Hash Disclosure Spoofing (Windows 10 / 11)  
+- **CVE-2025-24054** - NTLM Hash Disclosure Spoofing (Windows 10 / 11)  
   https://www.exploit-db.com/exploits/52478
+
 
 
 📄 Detailed technical analysis, advisories and additional PoCs are available on my **[blog](https://www.beafn28.es/#/research)**.
