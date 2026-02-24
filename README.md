@@ -57,6 +57,8 @@
 - **[CVE-2025-15549](https://www.cve.org/CVERecord?id=CVE-2025-15549)** – Stored XSS via SVG upload in File Management (FluentCMS ≤ 0.0.5)
 - **[CVE-2025-15550](https://www.cve.org/CVERecord?id=CVE-2025-15550)** – Cross-Site Request Forgery in GraphQL endpoint (birkir prime ≤ 0.4.0.beta.0)
 - **[CVE-2025-71177](https://www.cve.org/CVERecord?id=CVE-2025-71177)** – Stored XSS via package creation and search functionality (LavaLite CMS ≤ 10.1.0)
+- **[CVE-2026-27741](https://www.cve.org/CVERecord?id=CVE-2026-27741)** – Cross-Site Request Forgery in Plugin and Theme Management endpoints (Bludit ≤ 3.16.1)
+- **[CVE-2026-27742](https://www.cve.org/CVERecord?id=CVE-2026-27742)** – Stored XSS in post content (Bludit ≤ 3.16.2)
 
 ### Public PoCs & Exploits
 
