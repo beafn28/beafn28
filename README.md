@@ -59,6 +59,7 @@
 - **[CVE-2025-71177](https://www.cve.org/CVERecord?id=CVE-2025-71177)** – Stored XSS via package creation and search functionality (LavaLite CMS ≤ 10.1.0)
 - **[CVE-2026-27741](https://www.cve.org/CVERecord?id=CVE-2026-27741)** – Cross-Site Request Forgery in Plugin and Theme Management endpoints (Bludit ≤ 3.16.1)
 - **[CVE-2026-27742](https://www.cve.org/CVERecord?id=CVE-2026-27742)** – Stored XSS in post content (Bludit ≤ 3.16.2)
+- **[CVE-2026-26351](https://www.cve.org/CVERecord?id=CVE-2026-26351)** – Stored XSS via slug parameter in Theme to Components functionality (GetSimpleCMS-CE < 3.3.22)
 
 ### Public PoCs & Exploits
 
