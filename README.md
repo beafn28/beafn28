@@ -5,7 +5,7 @@
 
 - **Beatriz Fresno Naumova**
 - **Junior Pentester** at **Advens**
-- Final-year **Computer Engineering** student at the **University of Salamanca**
+- Final-year **Computer Engineering** student
 
 ## 🎯 Focus
 - Identification and exploitation of **vulnerabilities** in:
