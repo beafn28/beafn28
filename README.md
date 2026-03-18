@@ -60,6 +60,7 @@
 - **[CVE-2026-27741](https://www.cve.org/CVERecord?id=CVE-2026-27741)** – Cross-Site Request Forgery in Plugin and Theme Management endpoints (Bludit ≤ 3.16.1)
 - **[CVE-2026-27742](https://www.cve.org/CVERecord?id=CVE-2026-27742)** – Stored XSS in post content (Bludit ≤ 3.16.2)
 - **[CVE-2026-26351](https://www.cve.org/CVERecord?id=CVE-2026-26351)** – Stored XSS via slug parameter in Theme to Components functionality (GetSimpleCMS-CE < 3.3.22)
+- **[CVE-2026-22186](https://github.com/ome/bioformats/security/advisories/GHSA-x9vc-qh97-8gjp)** – XML External Entity (XXE) in Leica metadata parser (Bio-Formats ≤ 8.3.0)
 
 ### Public PoCs & Exploits
 
