@@ -96,7 +96,15 @@
 
 - **CVE-2025-24054** - Spoofing Vulnerability (Windows 10.0.17763.7009)  
   https://www.exploit-db.com/exploits/52480
+  
+- **CVE-2025-4524** - Local File Inclusion (WordPress Madara)  
+  https://www.exploit-db.com/exploits/52487
 
+- **CVE-2025-34040** - Arbitrary File Upload leading to RCE (Zhiyuan OA)  
+  https://www.exploit-db.com/exploits/52490
+
+- **CVE-2025-4123** - Server-Side Request Forgery (Grafana 11.2.0–11.6.0)  
+  https://www.exploit-db.com/exploits/52491
 
 
 
