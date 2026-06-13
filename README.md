@@ -30,7 +30,7 @@
   - Software
   - Infrastructure of both public and private institutions and reporting them **responsibly**
 - Creator of custom vulnerable machines for training platforms:
-  - **The Hacker Labs**: *Facultad*, *CryptoLabyrinth*, *Bancarrota*
+  - **The Hacker Labs**: *Facultad*, *CryptoLabyrinth*, *Bancarrota*, *Requien Cipher*
   - **DockerLabs**: *Elevator*, *Pequeñas Mentirosas*
 - Member of the **INCIBE Cybercooperators Program**
 - Interested in the impact of **quantum computing** on cybersecurity
