@@ -44,6 +44,17 @@
 
 ## 🚨 Public Vulnerability Research
 
+### CERT/CC Vulnerability Notes
+
+- **VU#226679** – Microsoft WinRE allows for bypass of UEFI/BIOS password enforcement
+
+  - Coordinated disclosure published by CERT/CC
+
+  - Affects Windows Recovery Environment (WinRE) implementations where firmware protections may not be consistently enforced during recovery boot paths
+
+  - Research article: https://beafn28.es/articulos/winre-uefi-bypass
+
+  - CERT/CC Advisory: https://kb.cert.org/vuls/id/226679
 ### CVEs
 
 - **[CVE-2025-52392](https://nvd.nist.gov/vuln/detail/CVE-2025-52392)** - Brute-force login vulnerability (Soosyze CMS)
